@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512"
+    style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g id="C396_x2C__Buildings_x2C__house_x2C__shop_front_x2C__shops_x2C__store">
+	<g>
+		<g>
+			<g>
+				<path style="fill:#CE1126;" d="M56,347c-5.523,0-10,4.478-10,10v120c0,5.522,4.477,10,10,10s10-4.478,10-10V357
+					C66,351.478,61.523,347,56,347z" />
+                <path style="fill:#CE1126;" d="M456,347c-5.522,0-10,4.478-10,10v120c0,5.522,4.478,10,10,10s10-4.478,10-10V357
+					C466,351.478,461.522,347,456,347z" />
+			</g>
+            <rect x="126" y="101" style="fill:#CE1126;" width="260" height="380" />
+            <rect x="296" y="171" style="fill:#D8F2F1;" width="40" height="40" />
+            <rect x="296" y="261" style="fill:#D8F2F1;" width="40" height="40" />
+            <rect x="296" y="351" style="fill:#D8F2F1;" width="40" height="40" />
+            <rect x="176" y="351" style="fill:#D8F2F1;" width="40" height="40" />
+            <rect x="176" y="261" style="fill:#D8F2F1;" width="40" height="40" />
+            <rect x="176" y="171" style="fill:#D8F2F1;" width="40" height="40" />
+            <polygon style="fill:#CE1126;"
+                points="426,21 426,101 386,101 126,101 86,101 86,21 			" />
+            <circle style="fill:#CE1126;" cx="56" cy="331" r="30" />
+            <circle style="fill:#CE1126;" cx="456" cy="331" r="30" />
+            <path style="fill:#CE1126;" d="M486,491H26c-5.522,0-10-4.478-10-10s4.478-10,10-10h460c5.522,0,10,4.478,10,10
+				S491.522,491,486,491z" />
+		</g>
+	</g>
+</g>
+    <g id="Layer_1">
+</g>
+</svg>

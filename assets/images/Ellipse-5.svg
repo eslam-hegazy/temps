@@ -1,0 +1,9 @@
+/* Ellipse 7 */
+
+position: absolute;
+width: 67px;
+height: 67px;
+left: 326px;
+top: 244px;
+
+background: url(Unknown.png);
